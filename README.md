@@ -8,6 +8,8 @@ Simply install in the `~/oxide/plugins` directory and enjoy.
 
 ## Configuration
 
+The plugin will create a configuration file by default
+
 ```json
 {
   "WipeCycle": "weekly",
